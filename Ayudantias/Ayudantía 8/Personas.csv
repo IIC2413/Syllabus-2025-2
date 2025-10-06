@@ -1,0 +1,21 @@
+Nombre;Apellidos;RUN;Direccion;Telefono;Correo Electronico;ISAPRE;tipo;titular;rol;profesion
+Marta Javier;Silva Rodriguez;370333-9;Av. Tobalaba 2192;927863715;marta.silva@dominiofake.net;81;beneficiario;469164-4;paciente;
+Daniel;Diaz Torres;855104-9;Av. Macul 3910;950221960;daniel.diaz@dominiofake.net;63;beneficiario;277294-9;paciente;
+Miguel;Diaz Hernandez;AAA980908-2;Av. Independencia 5555;986758225;miguel.diaz@dominiofake.net;67;beneficiario;413462-1;paciente;
+Javier;Soto;296405-8;Av. Grecia 1856;987322473;javier.soto@correoexample.com;81;titular;296405-8;Staff medico;TENS
+Jose;Rojas Lopez;227558-9;Av. Macul 4780;982841065;jose.rojas@correoexample.com;108;beneficiario;544502-7;paciente;
+Javier Carmen;Sepulveda Martinez;357628-0;Av. Tobalaba 7536;921229659;javier.sepulveda@correoexample.com;81;beneficiario;906385-4;paciente;
+Jose Antonio;Flores Perez;102145-1;Av. Tobalaba 4726;989276043;jose.flores@correoexample.com;76;beneficiario;450596-4;paciente;
+Pedro Isabel;Gonzalez Flores;964027-4;Av. Vicuna Mackenna 2435;908120715;pedro.gonzalez@dominiofake.net;1;titular;964027-4;administrativo;
+Isabel;Flores Lopez;738274-K;Av. Independencia 2794;955467032;isabel.flores@prueba.org;63;titular;738274-K;administrativo, paciente;
+Andres;Espinoza Rojas;502066-2;Av. Manuel Montt 7383;946072859;andres.espinoza@mailficticio.cl;76;beneficiario;740594-4;;
+Antonio;Perez Silva;172222-0;Av. Pajaritos 1198;952671687;antonio@perez@dominiofake.net;108;beneficiario;557142-1;paciente;
+Jose;Lopez Perez;321759-0;Av. Tobalaba 5853;993145514;jose.lopez@prueba.org;;;;paciente;
+Diego;Lopez;947596-6;Av. Recoleta 4926;912079685;diego.lopez@mailficticio.cl;107;beneficiario;418243-K;paciente;
+Luis;Gonzalez Gonzalez;955378-9;Av. La Florida 4818;962909349;luis.gonzalez@mailficticio.cl;80;titular;955378-9;paciente;
+Lucia;Torres Sepulveda;685785-K;Av. La Florida 3917;914539560;lucia.torres@prueba.org;1;titular;685785-K;paciente;
+Luis Isabel;;;;;;;;;;
+Laura;Silva;500967-7;Av. Apoquindo 8439;907622839;laura.silva@mailficticio.cl;80;beneficiario;741818-3;;
+Carmen Diego;Contreras Torres;911237-5;Av. Providencia 5293;916835946;carmen.contreras@mailficticio.cl;67;beneficiario;936343-2;;
+Carmen Pedro;Perez Hernandez;991147-2;Av. Macul 6933;922834053;carmen.perez@prueba.org;78;beneficiario;789375-2;;
+Maria;Gonzalez;334010-4;Av. Irarrazabal 11893;975031240;maria.gonzalez@mailficticio.cl;63;titular;334010-4;administrativo;
