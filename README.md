@@ -117,9 +117,9 @@ Calendario Tentativo
 | 12 | 20 | 21 | 22 Cl12 Fundamentos de EEDD e Índices; T8 Índices | 23 | 24 Ay12* materia I2 | 25 | 26 | E3 PHP |
 | 13 | 27 | 28 INTE2 | 29 Cl13 Evaluación de consultas; T9 Evaluación de consultas | 30 | 31 Feriado | 1 | 2 | E4 php+web |
 | 14 NOVIEMBRE | 3 | 4 | 5 Cl14 ORM, Information retrieval/text, search NoSQL y MongoDB T10 MongoDB | 6 | 7 Ay14 | 8 | 9 | E4 php+web |
-| 15 | 10 | 11 | 12 Cl15 Privacidad de la información; T11 Privacidad | 13 | 14 Ay15 | 15 | 16 | E4 php+web |
-| 16 | 17 | 18 | 19 Cl16 Data Science; T12 data science | 20 | 21 Ay16 | 22 | 23 | |
-| 17 | 24 - | 25 | 26 Cl17 consultas examen | 27 | 28 FIN clases Ay17* materia examen | 29 | 30 | |
+| 15 | 10 | 11 | 12 Cl15 Privacidad de la información; T11 Privacidad | 13 | 14  | 15 | 16 | E4 php+web |
+| 16 | 17 | 18 | 19 Cl16 Data Science; T12 data science | 20 | 21  | 22 | 23 | |
+| 17 | 24 - | 25 | 26 Cl17 consultas examen | 27 | 28 FIN clases Ay  materia examen | 29 | 30 | |
 | 18 DICIEMBRE | 1 - | 2 | 3 | 4 | 5 | 6 | 7 | |
 | 19 | 8 - feriado | 9 | 10 | 11 | 12 Examen | 13 | 14 | |
 | 20 | 15 | 16 Recorreciones finales | 17 Notas finales | | | | | |
