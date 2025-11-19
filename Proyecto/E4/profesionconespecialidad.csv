@@ -1,0 +1,455 @@
+"ID","firma","profesion","Especialidad"
+4,NULL,"TENS",NULL
+16,NULL,"enfermero/a",NULL
+26,NULL,"kinesiólogo/a",NULL
+27,NULL,"TENS",NULL
+34,NULL,"enfermero/a",NULL
+40,NULL,"kinesiólogo/a",NULL
+42,NULL,"kinesiólogo/a",NULL
+47,NULL,"kinesiólogo/a",NULL
+51,NULL,"enfermero/a",NULL
+58,NULL,"enfermero/a",NULL
+62,"./firmas/62","medico(a)","Dermatologia"
+70,NULL,"enfermero/a",NULL
+71,NULL,"kinesiólogo/a",NULL
+79,NULL,"TENS",NULL
+82,"./firmas/82","medico(a)","Geriatria"
+89,NULL,"enfermero/a",NULL
+92,NULL,"enfermero/a",NULL
+95,NULL,"TENS",NULL
+104,NULL,"kinesiólogo/a",NULL
+114,NULL,"TENS",NULL
+121,NULL,"kinesiólogo/a",NULL
+129,NULL,"kinesiólogo/a",NULL
+134,NULL,"TENS",NULL
+137,NULL,"enfermero/a",NULL
+138,NULL,"kinesiólogo/a",NULL
+145,NULL,"TENS",NULL
+148,NULL,"enfermero/a",NULL
+150,NULL,"kinesiólogo/a",NULL
+153,"./firmas/153","medico(a)","Neurocirugia"
+154,NULL,"kinesiólogo/a",NULL
+155,NULL,"kinesiólogo/a",NULL
+158,NULL,"TENS",NULL
+160,"./firmas/160","medico(a)","Oftalmologia"
+179,"./firmas/179","medico(a)","Otorrinolaringologia"
+184,NULL,"TENS",NULL
+192,NULL,"TENS",NULL
+213,NULL,"enfermero/a",NULL
+214,"./firmas/214","medico(a)","Reumatologia"
+222,NULL,"TENS",NULL
+233,"./firmas/233","medico(a)","Endocrinologia "
+234,NULL,"enfermero/a",NULL
+244,NULL,"kinesiólogo/a",NULL
+252,NULL,"kinesiólogo/a",NULL
+255,NULL,"enfermero/a",NULL
+257,"./firmas/257","medico(a)","Neurologia"
+266,NULL,"enfermero/a",NULL
+268,NULL,"TENS",NULL
+275,"./firmas/275","medico(a)","Psiquiatria "
+276,NULL,"enfermero/a",NULL
+278,NULL,"TENS",NULL
+281,NULL,"kinesiólogo/a",NULL
+299,NULL,"enfermero/a",NULL
+307,NULL,"enfermero/a",NULL
+315,NULL,"TENS",NULL
+329,NULL,"enfermero/a",NULL
+333,NULL,"kinesiólogo/a",NULL
+347,"./firmas/347","medico(a)","Cardiologia"
+352,"./firmas/352","medico(a)","Hematologia"
+365,NULL,"enfermero/a",NULL
+367,"./firmas/367","medico(a)","Infectologia"
+369,NULL,"kinesiólogo/a",NULL
+374,NULL,"TENS",NULL
+387,NULL,"enfermero/a",NULL
+388,NULL,"TENS",NULL
+390,"./firmas/390","medico(a)","Inmunologia"
+396,NULL,"TENS",NULL
+397,NULL,"kinesiólogo/a",NULL
+398,NULL,"enfermero/a",NULL
+402,"./firmas/402","medico(a)","Medicina Familiar"
+405,"./firmas/405","medico(a)","Medicina Interna"
+407,NULL,"kinesiólogo/a",NULL
+417,NULL,"kinesiólogo/a",NULL
+418,"./firmas/418","medico(a)","Obstetricia y Ginecologia"
+422,"./firmas/422","medico(a)","Pediatria"
+425,NULL,"kinesiólogo/a",NULL
+435,NULL,"kinesiólogo/a",NULL
+437,NULL,"kinesiólogo/a",NULL
+439,NULL,"TENS",NULL
+451,"./firmas/451","medico(a)","Traumatologia y Ortopedia"
+452,NULL,"enfermero/a",NULL
+454,NULL,"enfermero/a",NULL
+471,NULL,"TENS",NULL
+479,NULL,"kinesiólogo/a",NULL
+480,NULL,"enfermero/a",NULL
+495,NULL,"TENS",NULL
+501,NULL,"kinesiólogo/a",NULL
+512,"./firmas/512","medico(a)","Urologia"
+520,NULL,"kinesiólogo/a",NULL
+534,NULL,"TENS",NULL
+536,NULL,"enfermero/a",NULL
+548,"./firmas/548","medico(a)","Cirugia General"
+552,NULL,"enfermero/a",NULL
+566,"./firmas/566","medico(a)","Cirugia de Cabeza Cuello y Maxilofacial"
+576,NULL,"enfermero/a",NULL
+581,NULL,"kinesiólogo/a",NULL
+586,"./firmas/586","medico(a)","Cirugia Cardiovascular"
+596,"./firmas/596","medico(a)","Cirugia de Torax"
+601,NULL,"enfermero/a",NULL
+608,NULL,"kinesiólogo/a",NULL
+618,"./firmas/618","medico(a)","Cirugia Plastica y Reparadora"
+622,NULL,"TENS",NULL
+624,NULL,"TENS",NULL
+625,NULL,"enfermero/a",NULL
+633,"./firmas/633","medico(a)","Cirugia Pediatrica"
+640,NULL,"kinesiólogo/a",NULL
+652,"./firmas/652","medico(a)","Cirugia Vascular Periferica"
+654,NULL,"kinesiólogo/a",NULL
+655,NULL,"kinesiólogo/a",NULL
+656,NULL,"kinesiólogo/a",NULL
+667,"./firmas/667","medico(a)","Coloproctologia"
+670,NULL,"kinesiólogo/a",NULL
+674,NULL,"TENS",NULL
+690,NULL,"TENS",NULL
+701,NULL,"enfermero/a",NULL
+715,NULL,"enfermero/a",NULL
+721,NULL,"enfermero/a",NULL
+728,"./firmas/728","medico(a)","Diabetologia"
+734,NULL,"kinesiólogo/a",NULL
+741,NULL,"enfermero/a",NULL
+744,NULL,"enfermero/a",NULL
+775,NULL,"TENS",NULL
+783,NULL,"TENS",NULL
+789,NULL,"TENS",NULL
+793,NULL,"TENS",NULL
+794,NULL,"kinesiólogo/a",NULL
+796,"./firmas/796","medico(a)","Enfermedades Respiratorias Adulto"
+803,NULL,"TENS",NULL
+814,NULL,"kinesiólogo/a",NULL
+832,NULL,"enfermero/a",NULL
+833,"./firmas/833","medico(a)","Enfermedades Respiratorias Pediatricas"
+838,NULL,"TENS",NULL
+839,NULL,"TENS",NULL
+843,NULL,"TENS",NULL
+845,NULL,"TENS",NULL
+849,NULL,"enfermero/a",NULL
+853,NULL,"kinesiólogo/a",NULL
+857,NULL,"TENS",NULL
+859,NULL,"TENS",NULL
+860,NULL,"enfermero/a",NULL
+861,NULL,"kinesiólogo/a",NULL
+863,"./firmas/863","medico(a)","Gastroenterologia Adulto"
+864,NULL,"enfermero/a",NULL
+867,NULL,"enfermero/a",NULL
+872,"./firmas/872","medico(a)","Gastroenterologia Pediatrico"
+879,NULL,"kinesiólogo/a",NULL
+885,NULL,"TENS",NULL
+896,NULL,"kinesiólogo/a",NULL
+913,"./firmas/913","medico(a)","Nefrologia"
+929,NULL,"kinesiólogo/a",NULL
+931,NULL,"kinesiólogo/a",NULL
+950,"./firmas/950","medico(a)","Neonatologia"
+951,NULL,"TENS",NULL
+966,NULL,"TENS",NULL
+973,NULL,"kinesiólogo/a",NULL
+982,"./firmas/982","medico(a)","Dermatologia"
+986,"./firmas/986","medico(a)","Geriatria"
+992,NULL,"kinesiólogo/a",NULL
+993,NULL,"TENS",NULL
+995,NULL,"enfermero/a",NULL
+998,NULL,"kinesiólogo/a",NULL
+1008,NULL,"enfermero/a",NULL
+1010,NULL,"kinesiólogo/a",NULL
+1023,"./firmas/1023","medico(a)","Neurocirugia"
+1027,NULL,"TENS",NULL
+1049,"./firmas/1049","medico(a)","Oftalmologia"
+1054,NULL,"enfermero/a",NULL
+1058,NULL,"enfermero/a",NULL
+1064,NULL,"TENS",NULL
+1084,NULL,"enfermero/a",NULL
+1096,"./firmas/1096","medico(a)","Otorrinolaringologia"
+1104,NULL,"TENS",NULL
+1111,"./firmas/1111","medico(a)","Reumatologia"
+1117,NULL,"enfermero/a",NULL
+1121,NULL,"kinesiólogo/a",NULL
+1126,NULL,"TENS",NULL
+1128,NULL,"enfermero/a",NULL
+1129,NULL,"kinesiólogo/a",NULL
+1130,NULL,"kinesiólogo/a",NULL
+1137,NULL,"enfermero/a",NULL
+1155,NULL,"enfermero/a",NULL
+1163,NULL,"enfermero/a",NULL
+1191,NULL,"enfermero/a",NULL
+1197,NULL,"kinesiólogo/a",NULL
+1200,"./firmas/1200","medico(a)","Endocrinologia "
+1207,"./firmas/1207","medico(a)","Neurologia"
+1212,NULL,"enfermero/a",NULL
+1220,NULL,"enfermero/a",NULL
+1226,NULL,"enfermero/a",NULL
+1237,"./firmas/1237","medico(a)","Psiquiatria "
+1243,"./firmas/1243","medico(a)","Cardiologia"
+1262,NULL,"TENS",NULL
+1263,NULL,"kinesiólogo/a",NULL
+1266,"./firmas/1266","medico(a)","Hematologia"
+1274,NULL,"TENS",NULL
+1276,NULL,"enfermero/a",NULL
+1284,"./firmas/1284","medico(a)","Infectologia"
+1287,NULL,"TENS",NULL
+1304,NULL,"enfermero/a",NULL
+1317,NULL,"enfermero/a",NULL
+1321,"./firmas/1321","medico(a)","Inmunologia"
+1327,NULL,"TENS",NULL
+1335,"./firmas/1335","medico(a)","Medicina Familiar"
+1347,NULL,"TENS",NULL
+1360,NULL,"TENS",NULL
+1377,"./firmas/1377","medico(a)","Medicina Interna"
+1378,NULL,"enfermero/a",NULL
+1381,NULL,"kinesiólogo/a",NULL
+1394,"./firmas/1394","medico(a)","Obstetricia y Ginecologia"
+1395,"./firmas/1395","medico(a)","Pediatria"
+1396,NULL,"TENS",NULL
+1398,NULL,"TENS",NULL
+1401,NULL,"TENS",NULL
+1405,NULL,"TENS",NULL
+1407,NULL,"enfermero/a",NULL
+1412,NULL,"enfermero/a",NULL
+1414,"./firmas/1414","medico(a)","Traumatologia y Ortopedia"
+1416,NULL,"enfermero/a",NULL
+1419,NULL,"enfermero/a",NULL
+1423,NULL,"TENS",NULL
+1437,NULL,"kinesiólogo/a",NULL
+1438,NULL,"kinesiólogo/a",NULL
+1440,NULL,"TENS",NULL
+1448,NULL,"TENS",NULL
+1454,"./firmas/1454","medico(a)","Urologia"
+1456,NULL,"TENS",NULL
+1461,NULL,"TENS",NULL
+1471,NULL,"enfermero/a",NULL
+1472,"./firmas/1472","medico(a)","Cirugia General"
+1474,"./firmas/1474","medico(a)","Cirugia de Cabeza Cuello y Maxilofacial"
+1478,"./firmas/1478","medico(a)","Cirugia Cardiovascular"
+1480,NULL,"kinesiólogo/a",NULL
+1481,"./firmas/1481","medico(a)","Cirugia de Torax"
+1485,NULL,"kinesiólogo/a",NULL
+1490,NULL,"kinesiólogo/a",NULL
+1493,"./firmas/1493","medico(a)","Cirugia Plastica y Reparadora"
+1494,NULL,"enfermero/a",NULL
+1505,NULL,"kinesiólogo/a",NULL
+1532,NULL,"kinesiólogo/a",NULL
+1536,"./firmas/1536","medico(a)","Cirugia Pediatrica"
+1538,NULL,"TENS",NULL
+1542,NULL,"TENS",NULL
+1544,NULL,"kinesiólogo/a",NULL
+1553,NULL,"enfermero/a",NULL
+1555,NULL,"kinesiólogo/a",NULL
+1568,"./firmas/1568","medico(a)","Cirugia Vascular Periferica"
+1573,NULL,"TENS",NULL
+1586,NULL,"enfermero/a",NULL
+1601,NULL,"kinesiólogo/a",NULL
+1622,NULL,"TENS",NULL
+1633,NULL,"TENS",NULL
+1645,NULL,"kinesiólogo/a",NULL
+1650,"./firmas/1650","medico(a)","Coloproctologia"
+1659,NULL,"kinesiólogo/a",NULL
+1662,NULL,"kinesiólogo/a",NULL
+1671,NULL,"TENS",NULL
+1679,NULL,"TENS",NULL
+1683,NULL,"enfermero/a",NULL
+1691,NULL,"enfermero/a",NULL
+1693,NULL,"enfermero/a",NULL
+1694,NULL,"kinesiólogo/a",NULL
+1703,NULL,"kinesiólogo/a",NULL
+1710,"./firmas/1710","medico(a)","Diabetologia"
+1713,NULL,"enfermero/a",NULL
+1718,"./firmas/1718","medico(a)","Enfermedades Respiratorias Adulto"
+1722,NULL,"kinesiólogo/a",NULL
+1728,"./firmas/1728","medico(a)","Enfermedades Respiratorias Pediatricas"
+1730,NULL,"enfermero/a",NULL
+1733,"./firmas/1733","medico(a)","Gastroenterologia Adulto"
+1741,NULL,"TENS",NULL
+1751,NULL,"enfermero/a",NULL
+1752,NULL,"TENS",NULL
+1765,NULL,"enfermero/a",NULL
+1783,"./firmas/1783","medico(a)","Gastroenterologia Pediatrico"
+1789,NULL,"kinesiólogo/a",NULL
+1791,NULL,"enfermero/a",NULL
+1800,NULL,"kinesiólogo/a",NULL
+1805,"./firmas/1805","medico(a)","Nefrologia"
+1807,"./firmas/1807","medico(a)","Neonatologia"
+1820,NULL,"enfermero/a",NULL
+1825,NULL,"TENS",NULL
+1840,NULL,"kinesiólogo/a",NULL
+1845,NULL,"TENS",NULL
+1853,NULL,"enfermero/a",NULL
+1854,NULL,"TENS",NULL
+1858,"./firmas/1858","medico(a)","Dermatologia"
+1864,"./firmas/1864","medico(a)","Geriatria"
+1872,NULL,"enfermero/a",NULL
+1876,NULL,"kinesiólogo/a",NULL
+1877,NULL,"enfermero/a",NULL
+1878,"./firmas/1878","medico(a)","Neurocirugia"
+1879,NULL,"kinesiólogo/a",NULL
+1888,NULL,"kinesiólogo/a",NULL
+1897,"./firmas/1897","medico(a)","Oftalmologia"
+1906,NULL,"TENS",NULL
+1908,"./firmas/1908","medico(a)","Otorrinolaringologia"
+1912,NULL,"TENS",NULL
+1918,NULL,"kinesiólogo/a",NULL
+1920,NULL,"TENS",NULL
+1923,NULL,"TENS",NULL
+1925,NULL,"TENS",NULL
+1927,NULL,"enfermero/a",NULL
+1928,NULL,"kinesiólogo/a",NULL
+1939,NULL,"TENS",NULL
+1940,"./firmas/1940","medico(a)","Reumatologia"
+1943,"./firmas/1943","medico(a)","Endocrinologia "
+1946,NULL,"TENS",NULL
+1950,NULL,"enfermero/a",NULL
+1963,NULL,"kinesiólogo/a",NULL
+1972,NULL,"TENS",NULL
+1977,NULL,"kinesiólogo/a",NULL
+1980,NULL,"enfermero/a",NULL
+1982,NULL,"enfermero/a",NULL
+1984,NULL,"enfermero/a",NULL
+1991,NULL,"enfermero/a",NULL
+1992,"./firmas/1992","medico(a)","Neurologia"
+2009,NULL,"kinesiólogo/a",NULL
+2010,NULL,"enfermero/a",NULL
+2013,NULL,"kinesiólogo/a",NULL
+2024,NULL,"enfermero/a",NULL
+2039,"./firmas/2039","medico(a)","Psiquiatria "
+2041,"./firmas/2041","medico(a)","Cardiologia"
+2046,NULL,"TENS",NULL
+2055,NULL,"TENS",NULL
+2056,"./firmas/2056","medico(a)","Hematologia"
+2058,"./firmas/2058","medico(a)","Infectologia"
+2081,"./firmas/2081","medico(a)","Inmunologia"
+2082,NULL,"enfermero/a",NULL
+2086,NULL,"enfermero/a",NULL
+2113,"./firmas/2113","medico(a)","Medicina Familiar"
+2116,"./firmas/2116","medico(a)","Medicina Interna"
+2121,NULL,"enfermero/a",NULL
+2125,NULL,"kinesiólogo/a",NULL
+2135,"./firmas/2135","medico(a)","Obstetricia y Ginecologia"
+2157,NULL,"TENS",NULL
+2164,NULL,"TENS",NULL
+2175,"./firmas/2175","medico(a)","Pediatria"
+2184,"./firmas/2184","medico(a)","Traumatologia y Ortopedia"
+2192,NULL,"kinesiólogo/a",NULL
+2193,"./firmas/2193","medico(a)","Urologia"
+2196,NULL,"kinesiólogo/a",NULL
+2200,NULL,"kinesiólogo/a",NULL
+2202,"./firmas/2202","medico(a)","Cirugia General"
+2214,NULL,"TENS",NULL
+2225,NULL,"kinesiólogo/a",NULL
+2240,"./firmas/2240","medico(a)","Cirugia de Cabeza Cuello y Maxilofacial"
+2247,NULL,"kinesiólogo/a",NULL
+2248,"./firmas/2248","medico(a)","Cirugia Cardiovascular"
+2253,NULL,"TENS",NULL
+2254,"./firmas/2254","medico(a)","Cirugia de Torax"
+2267,NULL,"kinesiólogo/a",NULL
+2268,NULL,"enfermero/a",NULL
+2269,NULL,"enfermero/a",NULL
+2270,"./firmas/2270","medico(a)","Cirugia Plastica y Reparadora"
+2272,NULL,"kinesiólogo/a",NULL
+2273,NULL,"kinesiólogo/a",NULL
+2278,NULL,"enfermero/a",NULL
+2283,NULL,"TENS",NULL
+2288,NULL,"kinesiólogo/a",NULL
+2296,NULL,"TENS",NULL
+2323,NULL,"kinesiólogo/a",NULL
+2333,NULL,"enfermero/a",NULL
+2338,NULL,"TENS",NULL
+2339,NULL,"kinesiólogo/a",NULL
+2344,NULL,"kinesiólogo/a",NULL
+2355,NULL,"kinesiólogo/a",NULL
+2359,"./firmas/2359","medico(a)","Cirugia Pediatrica"
+2366,NULL,"TENS",NULL
+2371,"./firmas/2371","medico(a)","Cirugia Vascular Periferica"
+2377,NULL,"TENS",NULL
+2381,NULL,"TENS",NULL
+2382,NULL,"TENS",NULL
+2402,"./firmas/2402","medico(a)","Coloproctologia"
+2405,"./firmas/2405","medico(a)","Diabetologia"
+2411,"./firmas/2411","medico(a)","Enfermedades Respiratorias Adulto"
+2428,"./firmas/2428","medico(a)","Enfermedades Respiratorias Pediatricas"
+2429,NULL,"kinesiólogo/a",NULL
+2445,"./firmas/2445","medico(a)","Gastroenterologia Adulto"
+2454,NULL,"TENS",NULL
+2458,NULL,"TENS",NULL
+2465,NULL,"TENS",NULL
+2467,NULL,"enfermero/a",NULL
+2468,NULL,"enfermero/a",NULL
+2470,NULL,"TENS",NULL
+2485,NULL,"TENS",NULL
+2492,NULL,"enfermero/a",NULL
+2499,NULL,"kinesiólogo/a",NULL
+2510,NULL,"enfermero/a",NULL
+2515,NULL,"enfermero/a",NULL
+2520,"./firmas/2520","medico(a)","Gastroenterologia Pediatrico"
+2543,NULL,"enfermero/a",NULL
+2548,NULL,"TENS",NULL
+2560,"./firmas/2560","medico(a)","Nefrologia"
+2565,NULL,"enfermero/a",NULL
+2566,"./firmas/2566","medico(a)","Neonatologia"
+2567,NULL,"enfermero/a",NULL
+2568,NULL,"kinesiólogo/a",NULL
+2588,NULL,"enfermero/a",NULL
+2594,NULL,"enfermero/a",NULL
+2597,NULL,"kinesiólogo/a",NULL
+2601,"./firmas/2601","medico(a)","Dermatologia"
+2617,NULL,"TENS",NULL
+2622,NULL,"kinesiólogo/a",NULL
+2640,NULL,"enfermero/a",NULL
+2644,NULL,"enfermero/a",NULL
+2647,NULL,"kinesiólogo/a",NULL
+2658,NULL,"enfermero/a",NULL
+2659,NULL,"TENS",NULL
+2664,NULL,"TENS",NULL
+2674,NULL,"enfermero/a",NULL
+2681,NULL,"kinesiólogo/a",NULL
+2683,NULL,"kinesiólogo/a",NULL
+2693,"./firmas/2693","medico(a)","Geriatria"
+2698,NULL,"TENS",NULL
+2718,NULL,"kinesiólogo/a",NULL
+2727,NULL,"enfermero/a",NULL
+2735,NULL,"enfermero/a",NULL
+2745,NULL,"enfermero/a",NULL
+2746,"./firmas/2746","medico(a)","Neurocirugia"
+2749,NULL,"TENS",NULL
+2754,NULL,"enfermero/a",NULL
+2759,NULL,"TENS",NULL
+2765,NULL,"kinesiólogo/a",NULL
+2766,NULL,"kinesiólogo/a",NULL
+2767,NULL,"TENS",NULL
+2776,NULL,"kinesiólogo/a",NULL
+2783,NULL,"kinesiólogo/a",NULL
+2791,NULL,"kinesiólogo/a",NULL
+2796,"./firmas/2796","medico(a)","Oftalmologia"
+2804,"./firmas/2804","medico(a)","Otorrinolaringologia"
+2806,NULL,"TENS",NULL
+2810,"./firmas/2810","medico(a)","Reumatologia"
+2817,NULL,"kinesiólogo/a",NULL
+2832,"./firmas/2832","medico(a)","Endocrinologia "
+2833,"./firmas/2833","medico(a)","Neurologia"
+2845,NULL,"kinesiólogo/a",NULL
+2851,NULL,"TENS",NULL
+2872,NULL,"TENS",NULL
+2881,"./firmas/2881","medico(a)","Psiquiatria "
+2902,NULL,"kinesiólogo/a",NULL
+2907,"./firmas/2907","medico(a)","Cardiologia"
+2908,NULL,"kinesiólogo/a",NULL
+2911,NULL,"TENS",NULL
+2915,NULL,"enfermero/a",NULL
+2916,NULL,"kinesiólogo/a",NULL
+2947,NULL,"kinesiólogo/a",NULL
+2948,NULL,"TENS",NULL
+2959,NULL,"TENS",NULL
+2961,NULL,"enfermero/a",NULL
+2970,NULL,"kinesiólogo/a",NULL
+2977,NULL,"TENS",NULL
+2992,NULL,"enfermero/a",NULL
+2993,NULL,"TENS",NULL
+2994,NULL,"TENS",NULL
+2996,NULL,"TENS",NULL
